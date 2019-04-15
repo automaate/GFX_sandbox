@@ -58,9 +58,9 @@ The current known issues are as follows:
 | [MPLAB XC32 C/C++ Compiler](https://www.microchip.com/mplab/compilers)      | v2.15 | 
 | MPLAB X IDE plug-ins          |  |
 | MPLAB Harmony Configurator (MHC) plug-in   | v3.2.0 | 
-| [Harmony 3 BSP] (https://github.com/Microchip-MPLAB-Harmony/bsp)   | v3.2.1 |
-| [Harmony 3 CSP] (https://github.com/Microchip-MPLAB-Harmony/csp)  | v3.2.1 |
-| [Harmony 3 Core] (https://github.com/Microchip-MPLAB-Harmony/core)  | v3.2.1 |
-| [Harmony 3 GFX] (https://github.com/Microchip-MPLAB-Harmony/gfx)   | v3.2.0 |
-| [Harmony 3 Dev_Packs] (https://github.com/Microchip-MPLAB-Harmony/dev_packs)   | v3.2.1 |
-| [Harmony 3 USB] (https://github.com/Microchip-MPLAB-Harmony/usb)   | v3.2.0 |
+| [Harmony 3 BSP](https://github.com/Microchip-MPLAB-Harmony/bsp)   | v3.2.1 |
+| [Harmony 3 CSP](https://github.com/Microchip-MPLAB-Harmony/csp)  | v3.2.1 |
+| [Harmony 3 Core](https://github.com/Microchip-MPLAB-Harmony/core)  | v3.2.1 |
+| [Harmony 3 GFX](https://github.com/Microchip-MPLAB-Harmony/gfx)   | v3.2.0 |
+| [Harmony 3 Dev_Packs](https://github.com/Microchip-MPLAB-Harmony/dev_packs)   | v3.2.1 |
+| [Harmony 3 USB](https://github.com/Microchip-MPLAB-Harmony/usb)   | v3.2.0 |
