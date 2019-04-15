@@ -27,10 +27,10 @@
 | Applications | [SAM C21N Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/PartNO/ATSAMC21-XPRO) | [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/PartNO/ATSAME54-XPRO) | [SAM E70 Xplained Ultra Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/PartNO/ATSAME70-XPLD) | [SAM A5D2 Xplained Ultra Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsama5d2c-xult) |[Multimedia Expansion Board II](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM320005-5) |
 | --- | --- | --- | --- | --- | --- |
 | aria_dashboard          |  |   | x |   |   |
-| aria_benchmark          |  |   | x | x |   |
+| aria_benchmark          |  |   | x | x | x |
 | aria_mxt_configure      |  |   | x |   |   |
-| aria_oven_controller    |  |   | x |   |   |
-| aria_showcase           |  |   | x |   | x |
+| aria_oven_controller    |  |   | x |   | x |
+| aria_showcase           |  |   | x |   |   |
 | aria_showcase_reloaded  |  |   | x |   |   |
 | aria_weather_forecast   |  |   | x |   |   |
 
@@ -58,9 +58,9 @@ The current known issues are as follows:
 | [MPLAB XC32 C/C++ Compiler](https://www.microchip.com/mplab/compilers)      | v2.15 | 
 | MPLAB X IDE plug-ins          |  |
 | MPLAB Harmony Configurator (MHC) plug-in   | v3.2.0 | 
-| Harmony 3 BSP (https://github.com/Microchip-MPLAB-Harmony/bsp)   | v3.2.1 |
-| Harmony 3 CSP (https://github.com/Microchip-MPLAB-Harmony/csp)  | v3.2.1 |
-| Harmony 3 Core (https://github.com/Microchip-MPLAB-Harmony/core)  | v3.2.1 |
-| Harmony 3 GFX (https://github.com/Microchip-MPLAB-Harmony/gfx)   | v3.2.0 |
-| Harmony 3 Dev_Packs (https://github.com/Microchip-MPLAB-Harmony/dev_packs)   | v3.2.1 |
-| Harmony 3 USB (https://github.com/Microchip-MPLAB-Harmony/usb)   | v3.2.0 |
+| [Harmony 3 BSP] (https://github.com/Microchip-MPLAB-Harmony/bsp)   | v3.2.1 |
+| [Harmony 3 CSP] (https://github.com/Microchip-MPLAB-Harmony/csp)  | v3.2.1 |
+| [Harmony 3 Core] (https://github.com/Microchip-MPLAB-Harmony/core)  | v3.2.1 |
+| [Harmony 3 GFX] (https://github.com/Microchip-MPLAB-Harmony/gfx)   | v3.2.0 |
+| [Harmony 3 Dev_Packs] (https://github.com/Microchip-MPLAB-Harmony/dev_packs)   | v3.2.1 |
+| [Harmony 3 USB] (https://github.com/Microchip-MPLAB-Harmony/usb)   | v3.2.0 |
