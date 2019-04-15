@@ -25,16 +25,16 @@
 |  input    | maxtouch | Microchip maXTouch Touch Input Driver | Beta |
 |  middleware    | aria | Harmony Graphics Middleware Solution | Beta |
 | templates   | aria_gfx_oled1_xpro | MHC for oled xpro| Beta |
-|             | aria_gfx_pda_tm4301b| MHC config for pda | Beta |
-|             | aria_gfx_pda_tm5000| MHC config for pda | Beta |
+|             | aria_gfx_pda_tm4301b| MHC config for pda 4" display | Beta |
+|             | aria_gfx_pda_tm5000| MHC config for pda 5" display | Beta |
 |             | aria_gfx_xplained_pro| MHC config for xpro | Beta |
 |             | common| MHC config for common board |Beta |
 
-- **Driver support** - The following table provides the list of new support for graphics and input drivers.
+- **Driver support** - The following table provides the list of updates of graphics and input drivers.
 
-| Driver | Name | Feature | 
+| Driver | Description | 
 | --- | --- | --- |
-| 2DGPU| nano2d | Added 2DGPU Nano2D Driver|
+| 2DGPU (nano2D) | Added 2DGPU Nano2D Driver|
 | LCC | Added support for RGB332 in LCC driver|
 | LCDC | Added HAL control for LCDC backlight PWM|
 | maXTouch| Fixed non-portable Nop() in drv_maxtouch.c|
@@ -45,9 +45,9 @@
 | ILI9488| Added support for rectangular fill |
 | SSD1963 | Added support for rectangular fill |
 
-- **Middleware/HAL support** - The following table provides the list of added middleware and HAL content.
+- **Middleware/HAL support** - The following table provides the list of updatesof middleware and HAL content.
 
-| Middleware/HAL | Additions | 
+| Middleware/HAL | Description | 
 | --- | --- |
 | aria| Added pre-processing support for images in external media|
 | | Added touch support for maXTouch Xplained Pro display board|
@@ -56,7 +56,7 @@
 | | Fixed coded generation failure in MHC for radial menu widget|
 | | Added Alpha Enable flag to HAL|
 
-- **Graphics Application Templates** - The following table provides the list of new MHC templates for use within MHC.
+- **Graphics Application Templates** - The following table provides the list of updates of templates for use within MHC.
 
 | Template | Description |
 | --- | --- |
@@ -64,13 +64,13 @@
 | xplained_pro| Fixed C21 GFX templates to target C21 XPLD board|
 | pda_tm4301b| Fixed PDA TM4301B template causing stretch display output|
 
-- **Board Support Packages (BSP)s** - The following table provides the list of new MHC board support packages for use within MHC.
+- **Board Support Packages (BSP)s** - The following table provides the list of updates of board support packages for use within MHC.
 
 | BSP | Description |
 | --- | --- |
 | none | |
 
-- **Development Interfaces** - The following table provides the list of new interface tools support.
+- **Development Interfaces** - The following table provides the list of updates of interface tools support.
 
 | Interface Tool | Description |
 | --- | --- |
