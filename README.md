@@ -33,7 +33,7 @@
 - **Driver support** - The following table provides the list of updates of graphics and input drivers.
 
 | Driver | Description | 
-| --- | --- | --- |
+| --- | --- |
 | 2DGPU (nano2D) | Added 2DGPU Nano2D Driver|
 | LCC | Added support for RGB332 in LCC driver|
 | LCDC | Added HAL control for LCDC backlight PWM|
