@@ -14,8 +14,8 @@
 |      | aria_showcase | Example of Aria Graphics Library Widgets| Beta |
 |      | aria_showcase_reloaded | Example of Aria Graphics Library Widgets| Beta |Beta | 
 |      | aria_weather_forecast | Example weather UI | Beta |
-|  doc    | | Harmony Graphics Application API Documentation| Beta |
-|  docs   | | Harmony Graphics Application Help Documentation| Beta |
+|  doc | API | Harmony Graphics Application API Documentation| Beta |
+|  docs| Help | Harmony Graphics Application Help Documentation| Beta |
 
 - **New Applications** - The following table provides the list of new applications.
 
@@ -23,6 +23,8 @@
 | --- | --- |
 | aria_dashboard | Example automobile dashboard demo | 
 | aria_oven_controller |  Example SRAM-only GPU demo |
+
+- **Development kit and demo application support** - The following table provides the list of applications for different development kits.
 
 | Applications | [SAM C21N Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/PartNO/ATSAMC21-XPRO) | [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/PartNO/ATSAME54-XPRO) | [SAM E70 Xplained Ultra Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/PartNO/ATSAME70-XPLD) | [SAM A5D2 Xplained Ultra Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsama5d2c-xult) |[Multimedia Expansion Board II](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM320005-5) |
 | --- | --- | --- | --- | --- | --- |
