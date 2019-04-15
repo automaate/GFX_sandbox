@@ -14,8 +14,8 @@
 |      | aria_showcase | Example of Aria Graphics Library Widgets| Beta |
 |      | aria_showcase_reloaded | Example of Aria Graphics Library Widgets| Beta |Beta | 
 |      | aria_weather_forecast | Example weather UI | Beta |
-|  doc    | | Harmony Graphics Application Documentation| Beta |
-
+|  doc    | | Harmony Graphics Application API Documentation| Beta |
+|  docs   | | Harmony Graphics Application Help Documentation| Beta |
 
 - **New Applications** - The following table provides the list of new applications.
 
