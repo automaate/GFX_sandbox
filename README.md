@@ -36,7 +36,6 @@
 | --- | --- | --- |
 | 2DGPU| nano2d | Added 2DGPU Nano2D Driver|
 | LCC | Added support for RGB332 in LCC driver|
-
 | LCDC | Added HAL control for LCDC backlight PWM|
 | maXTouch| Fixed non-portable Nop() in drv_maxtouch.c|
 | GLCD| Fixed hardcoded WVGA frame buffer size allocation GLCD|
