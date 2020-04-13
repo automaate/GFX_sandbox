@@ -20,7 +20,7 @@ lang: en-US
 timezone: America/Phoenix
 
 description: Harmony 3 GFX package
-url: "https://github.com/automaate"
+url: "https://automaate.github.io"
 baseurl: "/GFX_sandbox"
 remote_theme: "Microchip-MPLAB-Harmony/just-the-docs@mchp-harmony"
 
