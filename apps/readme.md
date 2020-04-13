@@ -33,4 +33,4 @@ Examples and demonstrations using Aria graphics library.
 
 Examples and demonstrations using no graphics library.
 
-* [ICM with ECC errors injections](./icm_with_ecc_error_injection/readme.md)
+* [Blank Applications](./blank_quickstart/readme.md)
