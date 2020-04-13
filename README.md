@@ -1,9 +1,9 @@
 ﻿---
-title: Harmony 3 Aerospace Package
+title: Harmony 3 Graphics  Package
 nav_order: 1
 ---
 
-# MPLAB® Harmony 3 Aerospace
+# MPLAB® Harmony 3 Graphics 
 
 MPLAB® Harmony 3 is an extension of the MPLAB® ecosystem for creating
 embedded firmware solutions for Microchip 32-bit SAM and PIC® microcontroller
@@ -15,24 +15,43 @@ and microprocessor devices.  Refer to the following links for more information.
 - [Microchip MPLAB® Harmony](https://www.microchip.com/mplab/mplab-harmony)
 - [Microchip MPLAB® Harmony Pages](https://microchip-mplab-harmony.github.io/)
 
-This repository contains the MPLAB® Harmony 3 Aerospace solutions and example applications.
-Quickly incorporate connectivity to your designs with Aerospace ICs, modules, software and development kits that make connecting effortless for your customers.
-Our comprehensive Aerospace portfolio has the technology to meet your range, data rate, interoperability, frequency and topology needs. Refer to
-the following links for release notes, training materials, and interface reference information.
+This repository contains the MPLAB® Harmony Graphics Suite. The suite supports a free fast to market, graphics software development environment for Microchip MPLAB® 32-bit SAM and PIC microprocessor devices. Refer to the following graphics links for release notes, home page, training materials, framework and application help.
 
 - [Release Notes](release_notes.md)
 - [MPLAB® Harmony License](mplab_harmony_license.md)
-- [MPLAB® Harmony 3 Aerospace Wiki](https://github.com/Microchip-MPLAB-Harmony/aerospace/wiki)
-- [MPLAB® Harmony 3 Aerospace API Help](https://microchip-mplab-harmony.github.io/aerospace)
+- [MPLAB® Harmony 3 Aerospace Wiki](https://github.com/Microchip-MPLAB-Harmony/gfx/wiki)
+- [MPLAB® Harmony 3 Aerospace API Help](https://microchip-mplab-harmony.github.io/GFX_sandbox)
+
+# Featres
+The key features of the MPLAB® Harmony Graphics Suite are the following:
+
+* Hardware optimized for use with Microchip 32-bit SAM and PIC devices
+* Compatible component for use with Microchip Harmony 3 Configurator (MHC)
+* Written in C with MISRA C (Mandatory) compliancy
+* RTOS and non-RTOS support
+* Configurable widget building blocks buttons, labels, lists, sliders, and images
+* Rich tool set: Heap Estimator, Event Manager, Palette generator, Asset Manager, String and Font interface, DDR memory organizer
+* Hardware integrated for Microchip GPU and display controller peripherals
+* Support for single and double frame buffers
+* Multi-language font support
+* External input support for use with capacitive, resistive and other devices
+* UI design editor for what-you-see-what-you-get (WYSWYG) graphics layouts
+* Fluid-UI support for alpha-blending, animations, scaling
+* Pixel format support for RGBA8888, RGB888, RGB565, RGB5551, RGB332, GS8
+* Multi-image support for industry standard formats, compression choices, external memory accessibility
+* Fully functional demonstrations and quick-starts to enable new development
+* Low memory and low power configurable
+
 
 # Contents Summary
 
 | Folder     | Description                                               |
 | ---        | ---                                                       |
-| apps       | Example applications for Aerospace library components     |
-| config     | Aerospace module configuration file                       |
-| docs       | Aerospace library help documentation                      |
-| peripheral | Peripheral library templates and configuration data       |
+| apps       | Example quickstart and utility applications    |
+| display    | Supported displays                      |
+| input      | Input System and its associated drivers and services                      |
+| middleware | Supported User Interface (UI) libraries      |
+| driver     | Display controller and graphics processor unit drivers      |
 
 ## Code Examples
 
