@@ -22,7 +22,7 @@ This repository contains the MPLAB® Harmony Graphics Suite. The suite supports 
 - [MPLAB® Harmony 3 Aerospace Wiki](https://github.com/Microchip-MPLAB-Harmony/gfx/wiki)
 - [MPLAB® Harmony 3 Aerospace API Help](https://microchip-mplab-harmony.github.io/GFX_sandbox)
 
-# Featres
+# Features
 The key features of the MPLAB® Harmony Graphics Suite are the following:
 
 * Hardware optimized for use with Microchip 32-bit SAM and PIC devices
