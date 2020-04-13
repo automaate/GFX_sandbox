@@ -62,7 +62,7 @@ This Nonexclusive Software License Agreement ("Agreement") is between you, your 
         Licensee's premises and to audit Licensee's records and inventory of Licensee Products, whether located on Licensee's premises or elsewhere at any time, announced or unannounced, and in its sole and absolute discretion, in order to ensure Licensee's adherence to the terms of this Agreement.
 
     (f) License and Sublicense Limitation. This Section 1 does not grant Licensee or any Third Party the
-        right to modify any dotstack™ Bluetooth® stack, profile, or iAP protocol included in the Software.
+        right to modify any dotstackâ„¢ BluetoothÂ® stack, profile, or iAP protocol included in the Software.
 
 2. Third Party Requirements. Licensee acknowledges that it is Licensee's responsibility to comply
    with any third party license terms or requirements applicable to the use of such third party software, specifications, systems, or tools, including but not limited to SEGGER Microcontroller GmbH & Co. KG's rights in the emWin software and certain libraries included herein. Microchip is not responsible and will not be held responsible in any manner for Licensee's failure to comply with such applicable terms or requirements.
@@ -142,11 +142,11 @@ This Nonexclusive Software License Agreement ("Agreement") is between you, your 
 If Licensee has any questions about this Agreement, please write to Microchip Technology Inc.,
 2355 W. Chandler Blvd., Chandler, AZ 85224-6199 USA, ATTN: Marketing.
 
-Microchip MPLAB Harmony Integrated Software Framework. Copyright © 2015 Microchip Technology Inc. All rights reserved.
+Microchip MPLAB Harmony Integrated Software Framework. Copyright Â© 2015 Microchip Technology Inc. All rights reserved.
 
 License Rev. 11/2015
 
-Copyright © 2015 Qualcomm Atheros, Inc.
+Copyright Â© 2015 Qualcomm Atheros, Inc.
 All Rights Reserved.
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.

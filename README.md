@@ -1,68 +1,85 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions"><img src="https://github.com/pmarsceill/just-the-docs/workflows/CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+﻿---
+title: Harmony 3 Aerospace Package
+nav_order: 1
+---
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+# MPLAB® Harmony 3 Aerospace
 
-## Installation
+MPLAB® Harmony 3 is an extension of the MPLAB® ecosystem for creating
+embedded firmware solutions for Microchip 32-bit SAM and PIC® microcontroller
+and microprocessor devices.  Refer to the following links for more information.
 
-Add this line to your Jekyll site's Gemfile:
+- [Microchip 32-bit MCUs](https://www.microchip.com/design-centers/32-bit)
+- [Microchip 32-bit MPUs](https://www.microchip.com/design-centers/32-bit-mpus)
+- [Microchip MPLAB X IDE](https://www.microchip.com/mplab/mplab-x-ide)
+- [Microchip MPLAB® Harmony](https://www.microchip.com/mplab/mplab-harmony)
+- [Microchip MPLAB® Harmony Pages](https://microchip-mplab-harmony.github.io/)
 
-```ruby
-gem "just-the-docs"
-```
+This repository contains the MPLAB® Harmony 3 Aerospace solutions and example applications.
+Quickly incorporate connectivity to your designs with Aerospace ICs, modules, software and development kits that make connecting effortless for your customers.
+Our comprehensive Aerospace portfolio has the technology to meet your range, data rate, interoperability, frequency and topology needs. Refer to
+the following links for release notes, training materials, and interface reference information.
 
-And add this line to your Jekyll site's `_config.yml`:
+- [Release Notes](release_notes.md)
+- [MPLAB® Harmony License](mplab_harmony_license.md)
+- [MPLAB® Harmony 3 Aerospace Wiki](https://github.com/Microchip-MPLAB-Harmony/aerospace/wiki)
+- [MPLAB® Harmony 3 Aerospace API Help](https://microchip-mplab-harmony.github.io/aerospace)
 
-```yaml
-theme: just-the-docs
-```
+# Contents Summary
 
-And then execute:
+| Folder     | Description                                               |
+| ---        | ---                                                       |
+| apps       | Example applications for Aerospace library components     |
+| config     | Aerospace module configuration file                       |
+| docs       | Aerospace library help documentation                      |
+| peripheral | Peripheral library templates and configuration data       |
 
-    $ bundle
+## Code Examples
 
-Or install it yourself as:
+The following applications are provided to demonstrate the typical or interesting usage models of one or more Peripheral libraries.
 
-    $ gem install just-the-docs
+| MIL1553 Examples | Status |
+| --- | :---: |
+| [IP1553 Bus Controller operation blocking](apps/ip1553/ip1553_bc_operation_blocking/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+| [IP1553 Bus Controller operation interrupt](apps/ip1553/ip1553_bc_operation_interrupt/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+| [IP1553 Remote Terminal operation blocking](apps/ip1553/ip1553_rt_operation_blocking/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+| [IP1553 Remote Terminal operation interrupt](apps/ip1553/ip1553_rt_operation_interrupt/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
 
-## Usage
+| ICM with ECC errors injections Example | Status |
+| --- | :---: |
+| [ICM with ECC errors injections](apps/icm_with_ecc_error_injection/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
+| SpaceWire Examples | Status |
+| --- | :---: |
+| [SpaceWire Loopback](apps/spw/spw_loopback/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+| [SpaceWire RMAP Loopback](apps/spw/spw_rmap_loopback/readme.md) | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
 
-## Contributing
+## Peripheral libraries
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+### SAMRH71
 
-### Submitting code changes:
+| PLIB | Status |
+| --- | :---: |
+| [IP1553](peripheral/ip1553_44127/docs/readme.md) | ![app-beta](https://img.shields.io/badge/plib-beta-orange?style=plastic) |
+| [ICM](peripheral/icm_11105/docs/readme.md) | ![app-beta](https://img.shields.io/badge/plib-beta-orange?style=plastic) |
+| [FLEXRAMECC](peripheral/flexramecc_44124/docs/readme.md) | ![app-beta](https://img.shields.io/badge/plib-beta-orange?style=plastic) |
+| [TCMECC](peripheral/tcmecc_44125/docs/readme.md) | ![app-beta](https://img.shields.io/badge/plib-beta-orange?style=plastic) |
+| [SpaceWire](peripheral/spw_44126/docs/readme.md) | ![app-beta](https://img.shields.io/badge/plib-beta-orange?style=plastic) |
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+____
 
-### Design and development principles of this theme:
+[![License](https://img.shields.io/badge/license-Harmony%20license-orange.svg)](https://github.com/Microchip-MPLAB-Harmony/aerospace/blob/master/mplab_harmony_license.md)
+[![Latest release](https://img.shields.io/github/release/Microchip-MPLAB-Harmony/aerospace.svg)](https://github.com/Microchip-MPLAB-Harmony/aerospace/releases/latest)
+[![Latest release date](https://img.shields.io/github/release-date/Microchip-MPLAB-Harmony/aerospace.svg)](https://github.com/Microchip-MPLAB-Harmony/aerospace/releases/latest)
+[![Commit activity](https://img.shields.io/github/commit-activity/y/Microchip-MPLAB-Harmony/aerospace.svg)](https://github.com/Microchip-MPLAB-Harmony/aerospace/graphs/commit-activity)
+[![Contributors](https://img.shields.io/github/contributors-anon/Microchip-MPLAB-Harmony/aerospace.svg)]()
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+____
 
-## Development
+[![Follow us on Youtube](https://img.shields.io/badge/Youtube-Follow%20us%20on%20Youtube-red.svg)](https://www.youtube.com/user/MicrochipTechnology)
+[![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20us%20on%20LinkedIn-blue.svg)](https://www.linkedin.com/company/microchip-technology)
+[![Follow us on Facebook](https://img.shields.io/badge/Facebook-Follow%20us%20on%20Facebook-blue.svg)](https://www.facebook.com/microchiptechnology/)
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/MicrochipTech.svg?style=social)](https://twitter.com/MicrochipTech)
 
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+[![](https://img.shields.io/github/stars/Microchip-MPLAB-Harmony/aerospace.svg?style=social)]()
+[![](https://img.shields.io/github/watchers/Microchip-MPLAB-Harmony/aerospace.svg?style=social)]()
