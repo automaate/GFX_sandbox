@@ -1,4 +1,5 @@
 ---
+parent: Harmony 3 Graphics Package
 title: Examples and Demonstrations
 has_children: true
 has_toc: false

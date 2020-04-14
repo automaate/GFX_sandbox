@@ -1,5 +1,6 @@
 ---
-title: Harmony 3 Graphics  Package
+title: Harmony 3 Graphics Package
+has_children: true
 nav_order: 1
 ---
 
