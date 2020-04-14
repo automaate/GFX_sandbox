@@ -22,7 +22,7 @@ Naming convention of projects, configurations, applications and the other file e
 
 ## Legato Applications
 
-Examples and demonstrations using Aria graphics library.
+Examples and demonstrations using Legato graphics library.
 
 
 ## Blank Applications
