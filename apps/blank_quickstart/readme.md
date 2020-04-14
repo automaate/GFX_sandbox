@@ -1,7 +1,6 @@
 ---
 parent: Examples and Demonstrations
 title: Blank Quickstart Examples
-has_children: true
 nav_order: 3
 ---
 
