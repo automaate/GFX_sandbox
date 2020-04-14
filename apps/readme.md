@@ -24,10 +24,6 @@ Naming convention of projects, configurations, applications and the other file e
 
 Examples and demonstrations using Aria graphics library.
 
-* [IP1553 Bus Controller operation blocking](./ip1553/ip1553_bc_operation_blocking/readme.md)
-* [IP1553 Bus Controller operation interrupt](./ip1553/ip1553_bc_operation_interrupt/readme.md)
-* [IP1553 Remote Terminal operation blocking](./ip1553/ip1553_rt_operation_blocking/readme.md)
-* [IP1553 Remote Terminal operation interrupt](./ip1553/ip1553_rt_operation_interrupt/readme.md)
 
 ## Blank Applications
 
