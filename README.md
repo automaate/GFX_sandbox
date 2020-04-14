@@ -20,8 +20,8 @@ This repository contains the MPLAB® Harmony Graphics Suite. The suite supports 
 
 - [Release Notes](release_notes.md)
 - [MPLAB® Harmony License](mplab_harmony_license.md)
-- [MPLAB® Harmony 3 Aerospace Wiki](https://github.com/Microchip-MPLAB-Harmony/gfx/wiki)
-- [MPLAB® Harmony 3 Aerospace API Help](https://microchip-mplab-harmony.github.io/GFX_sandbox)
+- [MPLAB® Harmony 3 GFX Wiki](https://github.com/Microchip-MPLAB-Harmony/gfx/wiki)
+- [MPLAB® Harmony 3 GFX API Help](https://microchip-mplab-harmony.github.io/GFX_sandbox)
 
 # Features
 The key features of the MPLAB® Harmony Graphics Suite are the following:
