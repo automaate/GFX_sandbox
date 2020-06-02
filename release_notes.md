@@ -182,7 +182,7 @@ In gfx.c the variable args is falsely detected in violation of Code 530: &quot;S
 * aria_quickstart_ext_res applications using mzda may show external memory starter kit image. The demonstration only uses internal stack DDR starter kit.
 * FreeRTOS OSAL has an incorrect include path that causes build failures in non-Windows environments.
 * SAM E54/D51 must be debugged using MPLABX v5.25
-* For a list of current issues that affect this release, refer to MPLAB Harmony [GFX Issues and Errata](GFX Issues and Errata](https://github.com/automaate/GFX_sandbox/wiki/GFX-Issues-and-Errata)
+* For a list of current issues that affect this release, refer to MPLAB Harmony [GFX Issues and Errata](https://github.com/automaate/GFX_sandbox/wiki/GFX-Issues-and-Errata)
 
 ### DEVELOPMENT TOOLS
 
